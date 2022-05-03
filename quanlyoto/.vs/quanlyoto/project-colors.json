@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e028ce6-89d8-40b4-86b7-85fe6905cda7": {
+      "ProjectGuid": "9e028ce6-89d8-40b4-86b7-85fe6905cda7",
+      "DisplayName": "quanlyoto",
+      "ColorIndex": 0
+    },
+    "453445e8-4447-4cfc-ad47-ffe59c54e588": {
+      "ProjectGuid": "453445e8-4447-4cfc-ad47-ffe59c54e588",
+      "DisplayName": "wcfOnDb",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

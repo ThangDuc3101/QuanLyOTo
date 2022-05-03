@@ -1,0 +1,14 @@
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\bin\Debug\quanlyoto.exe
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\bin\Debug\quanlyoto.exe.config
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.About.resources
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.ChucNang.resources
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.Form1.resources
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.Properties.Resources.resources
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.Timkiem.resources
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.csproj.GenerateResource.cache
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.csproj.CoreCompileInputs.cache
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.exe
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.pdb
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\bin\Debug\quanlyoto.pdb
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\quanlyoto\obj\Debug\quanlyoto.Thongke.resources

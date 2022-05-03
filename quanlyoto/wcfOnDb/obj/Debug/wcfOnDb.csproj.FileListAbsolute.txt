@@ -1,0 +1,6 @@
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\wcfOnDb\bin\Debug\wcfOnDb.dll.config
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\wcfOnDb\bin\Debug\wcfOnDb.dll
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\wcfOnDb\bin\Debug\wcfOnDb.pdb
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\wcfOnDb\obj\Debug\wcfOnDb.csproj.CoreCompileInputs.cache
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\wcfOnDb\obj\Debug\wcfOnDb.dll
+C:\Users\Thang\OneDrive\Desktop\a\quanlyoto\wcfOnDb\obj\Debug\wcfOnDb.pdb
